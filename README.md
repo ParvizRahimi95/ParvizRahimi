@@ -17,5 +17,5 @@
 - Python Contacts Manager (CLI)
 
 ### 📫 Connect
--Gmail:parviz95rahimi@gmail.com
+- Gmail:parviz95rahimi@gmail.com
 - LinkedIn: coming soon
